@@ -242,3 +242,17 @@ This spins up:
 - **Frontend**: Port 5173
 - **Backend**: Port 5000
 - **PostgreSQL**: Port 5432
+
+---
+
+## Screenshots
+
+### Homepage
+![EventFlow homepage](docs/screenshots/homepage.png)
+
+### Trending Experiences
+![Trending experiences and event cards](docs/screenshots/trending-experiences.png)
+
+### Organizer Section and Footer
+![Organizer section and footer](docs/screenshots/organizer-footer.png)
+
